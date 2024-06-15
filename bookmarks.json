@@ -1,5 +1,5 @@
 {
-  "checksum": "5efdad5dc8e57670ee09ecefccc923c7",
+  "checksum": "54fc009c464912a8b5d4c54faef6bbdf",
   "roots": {
     "bookmark_bar": {
       "children": [
@@ -21373,6 +21373,15 @@
                   "name": "downloads",
                   "type": "url",
                   "url": "https://git-scm.com/downloads"
+                },
+                {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "52922eb7-1d23-4ffa-b2de-61ed07c28e80",
+                  "id": "4092",
+                  "name": "git-filter-repo",
+                  "type": "url",
+                  "url": "https://github.com/newren/git-filter-repo"
                 },
                 {
                   "date_added": "0",
